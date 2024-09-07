@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Revizio",
+    "slug": "revizio_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/revizio.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.aceclavano007.revizio_app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2154f742-6ace-4c76-9f65-e7dc83b0cadb"
+      }
+    }
+  }
+}
